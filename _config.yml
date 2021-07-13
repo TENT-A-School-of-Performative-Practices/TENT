@@ -1,1 +1,6 @@
+title: Tent
+# logo: /assets/img/logo.png
+description: A School of Perfomative Practices
+show_downloads: False
+google_analytics:
 theme: jekyll-theme-minimal
