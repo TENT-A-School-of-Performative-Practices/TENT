@@ -1,5 +1,9 @@
 # TENT: A School of Performative Practices
 
+
+[Instagram](https://www.instagram.com/banyan_tent/) 
+[Facebook](https://www.facebook.com/banyantent) 
+
 ## What is it?
 
 > It is a TENT, in a physical object and a school as an idea. It is a
